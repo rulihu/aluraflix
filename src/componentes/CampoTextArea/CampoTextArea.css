@@ -1,0 +1,15 @@
+textarea{
+    margin-top: 40px;
+    /* margin-bottom: 25px;
+    min-width: 10px;
+    max-width: 10px;
+    min-height: 200px;
+    max-height: 600px;*/
+    border: 1px;
+    background-color: #53585D;
+    padding: 10px;
+    color: white;
+    display: block;
+    outline-color: red;
+    font-size: 16px;    
+}

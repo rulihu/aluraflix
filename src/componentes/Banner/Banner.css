@@ -1,0 +1,53 @@
+.banner{
+    /*background-color: black;*/
+    position: relative;/*adicion*/
+    text-align: center;
+}
+.banner:before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: linear-gradient(rgba(255,255,255,0),rgba(0,0,0,0.7));
+}
+.banner img {
+    max-width: 100%;
+}
+.Subbanner {
+    position: absolute;
+    padding: 0px 12em 0px 12em;
+    bottom: 3em;
+    display: flex;
+    align-items: center;
+    gap: 3em;
+    box-sizing: border-box;
+}
+.Subbanner_1 {
+    color: white;
+    max-width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Subbanner_1 h1{font-size: 1.5em;text-align: left;}
+.Subbanner_1 p{font-size: 1.09em;text-align: left;}
+
+.Subbanner_2 {
+    width: 100%;
+    height: 100%;
+}
+@media (max-width:768px){
+    .Subbanner {
+        flex-wrap: wrap;
+        padding: 0em 8em 0em 8em;
+        gap: 1em;
+    }
+    .Subbanner_1 p{
+        display: none;
+}
+}
+@media (max-width:500px){
+    .Subbanner{
+        padding: 0em 5em 0em 5em;
+        gap: 0.1em;
+        bottom: 1.5em;
+    }
+}

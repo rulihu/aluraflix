@@ -1,0 +1,30 @@
+.tablaEquipos {
+    width: 50%;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    border: 5px solid #2A7AE4;
+    border-collapse: collapse;
+    text-align: left;
+    background: #0e0d0d;
+    color: white;
+}
+.c1{
+    width: 30%; 
+}
+.c2{
+    width: 60%;
+}
+.c3{
+    width: 5%;
+    text-align: center;
+}
+.c4{
+    width: 5%;
+    text-align: center;
+}
+
+th, td {
+    border: 5px solid #2A7AE4;
+    padding: 15px;
+}

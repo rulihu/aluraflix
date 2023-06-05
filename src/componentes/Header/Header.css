@@ -1,0 +1,26 @@
+.header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 16px;
+    border-bottom: 5px solid #2A7AE4;
+}
+.header img{
+    margin: 2.5em 0em 1.68em 1.68em;
+}
+.header button{
+    /*margin: 0em 2.5em 1.68em 1.68em;*/
+    font-family: 'Courier New', Courier, monospace,'Roboto';
+    margin-right: 2.5em;
+    background: transparent;
+    border-radius: 0.5em;
+    width: 11.25em;
+    height: 3.37em;
+    color: white;
+    border: 0.062em solid white;
+}
+button:hover {
+    color: #4548e2;
+    transform: scale(0.9);
+}

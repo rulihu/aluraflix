@@ -1,0 +1,14 @@
+.colaborador {
+    /*width: 280px;*/
+    margin-bottom: 24px;
+    margin-top: 25px;
+    position: relative;
+}
+.colaborador img{
+    width: 100%;
+}
+.eliminar {
+    position: absolute;
+    right:  -15px;
+    top: -15px;
+}

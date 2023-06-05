@@ -1,0 +1,160 @@
+{
+  "colaboradores": [
+    {
+      "id": "1",
+      "categoria": "Front End",
+      "descripcion": "recomendado",
+      "image": "https://github.com/rulihu/imagenesFlix/blob/master/imgBack1.png?raw=true",
+      "titulo": "Buenoooo",
+      "video": "https://github.com/rulihu/imagenesFlix/blob/master/imgBack1.png?raw=true"
+    },
+    {
+      "id": "2",
+      "categoria": "Back End",
+      "descripcion": "recomendado",
+      "image": "https://github.com/rulihu/imagenesFlix/blob/master/imgFron1.png?raw=true",
+      "titulo": "Buenoaaa",
+      "video": "https://github.com/rulihu/imagenesFlix/blob/master/imgFron1.png?raw=true"
+    },
+    {
+      "id": "3",
+      "categoria": "Innovacion y gestion",
+      "escripcion": "recomendado",
+      "image": "https://github.com/rulihu/imagenesFlix/blob/master/imgInGes1.png?raw=true",
+      "titulo": "Buenoss",
+      "video": "https://github.com/rulihu/imagenesFlix/blob/master/imgInGes1.png?raw=true"
+    },
+    {
+      "id": "bc600de5-815f-4347-a7cc-04596dc4d29e",
+      "titulo": "barck",
+      "video": "https://github.com/rulihu/imagenesFlix/blob/master/imgBack1.png?raw=true",
+      "image": "https://github.com/rulihu/imagenesFlix/blob/master/imgBack1.png?raw=true",
+      "categoria": "Back End",
+      "descripcion": "bueno"
+    },
+    {
+      "id": "e437a109-ef81-4473-84eb-e1e964ec8578",
+      "titulo": "back",
+      "video": "https://github.com/rulihu/imagenesFlix/blob/master/imgBack2.png?raw=true",
+      "image": "https://github.com/rulihu/imagenesFlix/blob/master/imgBack2.png?raw=true",
+      "categoria": "Back End",
+      "descripcion": "buen curso"
+    },
+    {
+      "id": "e3000bb6-526f-499d-88d0-68985d1b573c",
+      "titulo": "back",
+      "video": "https://github.com/rulihu/imagenesFlix/blob/master/imgBack3.png?raw=true",
+      "image": "https://github.com/rulihu/imagenesFlix/blob/master/imgBack3.png?raw=true",
+      "categoria": "Back End",
+      "descripcion": "bueno tambien"
+    },
+    {
+      "id": "077aefb9-d376-4e44-8ffe-d407ec2da5ae",
+      "titulo": "front",
+      "video": "https://github.com/rulihu/imagenesFlix/blob/master/imgFron3.png?raw=true",
+      "image": "https://github.com/rulihu/imagenesFlix/blob/master/imgFron3.png?raw=true",
+      "categoria": "Front End",
+      "descripcion": "buenos"
+    },
+    {
+      "id": "077aefb9-d376-4e44-8ffe-d407ec2da500",
+      "titulo": "front",
+      "video": "https://github.com/rulihu/imagenesFlix/blob/master/imgFron3.png?raw=true",
+      "image": "https://github.com/rulihu/imagenesFlix/blob/master/imgFron3.png?raw=true",
+      "categoria": "Front End",
+      "descripcion": "buenos"
+    },
+    {
+      "id": "d5e66369-225c-4b83-8845-6c55e87dc09b",
+      "titulo": "front",
+      "video": "https://github.com/rulihu/imagenesFlix/blob/master/imgFron2.png?raw=true",
+      "image": "https://github.com/rulihu/imagenesFlix/blob/master/imgFron2.png?raw=true",
+      "categoria": "Front End",
+      "descripcion": "bueno"
+    },
+    {
+      "id": "da498b22-034d-4c6a-b04b-d14c8173fecd",
+      "titulo": "bueno",
+      "video": "https://github.com/rulihu/imagenesFlix/blob/master/imgFron1.png?raw=true",
+      "image": "https://github.com/rulihu/imagenesFlix/blob/master/imgFron1.png?raw=true",
+      "categoria": "Front End",
+      "descripcion": "bueno"
+    },
+    {
+      "id": "a5ff0353-9c96-416e-98a3-4d30b6c868a7",
+      "titulo": "ino",
+      "video": "https://github.com/rulihu/imagenesFlix/blob/master/imgInGes3.png?raw=true",
+      "image": "https://github.com/rulihu/imagenesFlix/blob/master/imgInGes3.png?raw=true",
+      "categoria": "Innovacion y gestion",
+      "descripcion": "bueno"
+    },
+    {
+      "id": "c1856525-66ee-4a57-b604-dbb2b5ae76a0",
+      "titulo": "ino",
+      "video": "https://github.com/rulihu/imagenesFlix/blob/master/imgInGes2.png?raw=true",
+      "image": "https://github.com/rulihu/imagenesFlix/blob/master/imgInGes2.png?raw=true",
+      "categoria": "Innovacion y gestion",
+      "descripcion": "bueno"
+    },
+    {
+      "id": "137bf987-5bc4-4070-b56f-85cc027d345b",
+      "titulo": "ino",
+      "video": "https://github.com/rulihu/imagenesFlix/blob/master/imgBack1.png?raw=true",
+      "image": "https://github.com/rulihu/imagenesFlix/blob/master/imgBack1.png?raw=true",
+      "categoria": "Innovacion y gestion",
+      "descripcion": "bueno"
+    },
+    {
+      "id": "137bf987-5bc4-4070-b56f-85cc027d300b",
+      "titulo": "ino",
+      "video": "https://github.com/rulihu/imagenesFlix/blob/master/imgBack1.png?raw=true",
+      "image": "https://github.com/rulihu/imagenesFlix/blob/master/imgBack1.png?raw=true",
+      "categoria": "Innovacion y gestion",
+      "descripcion": "bueno"
+    }
+  ],
+  "equipos": [
+    {
+      "id": "11",
+      "titulo": "Front End",
+      "colorPrimario": "#6BD1FF",
+      "descrip": "prueba",
+      "codigo": "123"
+    },
+    {
+      "id": "22",
+      "titulo": "Back End",
+      "colorPrimario": "#00C86F",
+      "descrip": "prueba",
+      "codigo": "123"
+    },
+    {
+      "id": "33",
+      "titulo": "Innovacion y gestion",
+      "colorPrimario": "#FE8C2A",
+      "descrip": "prueba",
+      "codigo": "123"
+    },
+    {
+      "id": "44",
+      "titulo": "Diseño",
+      "colorPrimario": "#A6D157",
+      "descrip": "prueba",
+      "codigo": "123"
+    },
+    {
+      "id": "c6a373a1-a9df-436c-8061-332f9c5db8ff",
+      "titulo": "innovacion",
+      "descrip": "buen curso",
+      "colorPrimario": "#ed0707",
+      "codigo": "123000"
+    },
+    {
+      "id": "8094f7c5-c31c-4b0a-93be-3222eca404eb",
+      "titulo": "robotica",
+      "descrip": "buen tematica de con arduino",
+      "colorPrimario": "#0affad",
+      "codigo": "12345qwe"
+    }
+  ]
+}

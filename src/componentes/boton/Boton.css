@@ -1,0 +1,16 @@
+.boton { 
+    background-color: #2A7AE4;
+    border-radius: 10px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace,'Roboto';
+    padding: 24px 32px;
+    border: none;
+    color: #ffffff;
+    margin: 32px 20px;
+    cursor: pointer;
+}
+
+.boton:hover {
+    color: #95ffd4;
+    transform: scale(0.9);
+}
